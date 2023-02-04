@@ -1,0 +1,9 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "description": "intro to the mern stack structure",
+  "main": "index.js",
+  "repository": "https://github.com/siwaomondi/mern_test.git",
+  "author": "Siwa Omondi",
+  "license": "MIT"
+}
